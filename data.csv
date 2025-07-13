@@ -1,0 +1,4 @@
+Claim ID,Fraud Score,AI Confidence,Prior Claims,Region
+C001,0.12,92,0,Central Europe
+C002,0.28,61,2,Eastern Europe
+C003,0.46,49,1,Eastern Europe
